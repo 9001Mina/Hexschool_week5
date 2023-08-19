@@ -1,0 +1,16 @@
+@import "../../node_modules/bootstrap/scss/functions";
+@import './utils/variables';
+@import "../../node_modules/bootstrap";
+
+@import './base';
+@import '../scss/utils/util';
+@import '../scss/helpers/components';
+
+
+@import './pages/index';
+// @import './layout/sideMenu';
+// @import './layout/header';
+// @import './layout/footer';
+
+
+
